@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+	<information>
+		<name>TechAesthetic 2</name> 
+		<version>1.0</version>
+		<description>
+		<![CDATA[ HTML5,CSS3,jQuery로 구성된 스킨입니다. 웹표준을 지켰으며 유동형 레이아웃을 지원합니다.]]>
+		</description>
+		<license>
+		<![CDATA[수정불가 재배포 금지]]>
+		</license>
+	</information> 
+	<author>
+		<name>Estoque</name>
+		<homepage>http://est0que.tistory.com/</homepage>
+		<email>incusx@naver.com</email>
+	</author> 
+	<default>
+		<expandComment>1</expandComment>
+		<recentEntries>5</recentEntries> 
+		<recentComments>5</recentComments>
+		<recentTrackbacks>5</recentTrackbacks>
+		<itemsOnGuestbook>15</itemsOnGuestbook>
+		<tagsInCloud>20</tagsInCloud>
+		<sortInCloud>1</sortInCloud> 		
+		<expandTrackback>1</expandTrackback> 
+		<lengthOfRecentNotice>25</lengthOfRecentNotice>
+		<lengthOfRecentEntry>27</lengthOfRecentEntry>
+		<lengthOfRecentComment>30</lengthOfRecentComment> 
+		<lengthOfRecentTrackback>30</lengthOfRecentTrackback> 
+		<lengthOfLink>30</lengthOfLink>
+		<showListOnCategory>0</showListOnCategory>
+		<showListOnArchive>0</showListOnArchive> 
+
+		<tree>
+			<color>000000</color> 
+			<bgColor>ffffff</bgColor>
+			<activeColor>000000</activeColor> 
+			<activeBgColor>eeeeee</activeBgColor>
+			<labelLength>27</labelLength> 
+			<showValue>0</showValue>
+		</tree>
+		<contentWidth>850</contentWidth>
+	</default>
+</skin>

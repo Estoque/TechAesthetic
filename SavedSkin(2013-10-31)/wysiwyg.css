@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+   color: #000;
+    font: 12px "맑은 고딕","고딕", Sans-serif;
+  background-color: #fff;
+}
+
+a { color: #4a6d87; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+#tx_canvas_wysiwyg_holder { background: url("../images/bg_wysiwyg.gif") repeat-y center 0  !important; }
+#tx_canvas_subject_holder { text-align: left !important; }
+#tx_canvas_subject {
+    color: #000;
+    border: none; 
+    font: 12px "맑은 고딕","고딕", Sans-serif;
+    padding: 10xp 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
